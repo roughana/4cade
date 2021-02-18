@@ -1,3 +1,9 @@
+# Revision 4.01 / serial number 20210218
+
+## Enhancements & bug fixes
+
+ - fix screensaver looping so all modules display in the proper order
+
 # Revision 4 / serial number 20210212
 
 ## New games
